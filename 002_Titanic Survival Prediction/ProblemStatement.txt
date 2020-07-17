@@ -1,0 +1,4 @@
+.................
+Problem Statement:-
+`````````````````
+To predict whether the Passenger of Titanic would have survived or not.

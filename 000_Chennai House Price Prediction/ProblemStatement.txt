@@ -1,0 +1,7 @@
+.................
+Problem Statement
+`````````````````
+Chennai House Price Prediction(Regression)
+``````````````````````````````````````````
+
+A real estate firm wants to develop a model to accurately predict *real estate prices* for houses in chennai, based on the past transactions under the firm.
