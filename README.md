@@ -18,4 +18,4 @@ A structured directory for all the basics of ML, Pandas, numpy etc.
 ## Contribution
 Feel free to add more directories to this repo, If you find something is missing!!
 ## License
-[MIT]()
+[MIT](https://github.com/ManishShah120/sk-learn-Basics/blob/master/LICENSE)
